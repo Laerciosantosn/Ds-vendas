@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="/src/assets/img/banner.png" alt=""  style="object-fit: cover; width: 914px; height:200px;border-radius: 8px;">
+  <img src="/frontend/src/assets/img/banner.png" alt=""  style="object-fit: cover; width: 914px; height:200px;border-radius: 8px;">
 <br>
 
 <br>
@@ -17,14 +17,22 @@ DSVendas
 </p>
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="/src/assets/img/home.png" alt="demo" height="350" width="415">
-  <img src="/src/assets/img/dashboard.png" alt="demo" height="350" width="415">
+  <img src="/frontend/src/assets/img/home.png" alt="demo" height="350" width="415">
+  <img src="/frontend/src/assets/img/dashboard.png" alt="demo" height="350" width="415">
 </div>
 
 
 ----
 
 ## Features
+
+This server all the latest tools and practices in backend development!
+
+- 📘 **Java** — Java is a programming language and computing platform first launched by Sun Microsystems in 1995.
+- 📓 **H2-** — H2 is a relational database management system written in Java.
+- 📙 **PostgreSQL** — PostgreSQL is an object relational database management system.
+- 📗 **Spring Boot** — Spring is an open source framework for the Java platform.
+
 
 This webpage all the latest tools and practices in web development!
 
@@ -36,46 +44,15 @@ This webpage all the latest tools and practices in web development!
 - 📘 **bootstrap** — Bootstrap is an open source web framework for developing interface and front-end .
 
 
-
-<table>
-<thead>
-
 ## Getting Started 
  
 
-<tr style="width: 500px;">
-<th style="border: 0; width: 415px;">
+
+First, run the development server: [backend](https://github.com/Laerciosantosn/Ds-vendas/tree/main/frontend)
 
 
-First, run the development server:
 
-```bash
-npm run server
-# or
-yarn server
-```
-</th>
-<th style="border: 0; width: 415px;">
-
-
-Second, run the development project:
-
-```bash
-npm run dev
-# or
-yarn dev
-```
-</th>
-</tr>
-</thead>
-</table>
-
-
-1. Open [http://localhost:3333/episodes](http://localhost:3333/episodes) with your browser to see the json data.
-<br>
-
-1. Open [http://localhost:3000](http://localhost:3000/episodes) with your browser to see the project.
-
+Second, run the development project: [frontend](https://github.com/Laerciosantosn/Ds-vendas/tree/main/frontend)
 
 
 ## License
