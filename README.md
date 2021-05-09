@@ -48,7 +48,7 @@ This webpage all the latest tools and practices in web development!
  
 
 
-First, run the development server: [backend](https://github.com/Laerciosantosn/Ds-vendas/tree/main/frontend)
+First, run the development server: [backend](https://github.com/Laerciosantosn/Ds-vendas/tree/main/backend)
 
 
 

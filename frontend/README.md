@@ -42,37 +42,13 @@ This webpage all the latest tools and practices in web development!
 
 ## Getting Started 
  
-
-<tr style="width: 500px;">
-<th style="border: 0; width: 415px;">
-
-
-First, run the development server:
-
-```bash
-npm run server
-# or
-yarn server
-```
-</th>
-<th style="border: 0; width: 415px;">
-
-
-Second, run the development project:
+First, run the development project:
 
 ```bash
 npm run dev
 # or
 yarn dev
 ```
-</th>
-</tr>
-</thead>
-</table>
-
-
-1. Open [http://localhost:3333/episodes](http://localhost:3333/episodes) with your browser to see the json data.
-<br>
 
 1. Open [http://localhost:3000](http://localhost:3000/episodes) with your browser to see the project.
 
