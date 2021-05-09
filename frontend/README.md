@@ -17,8 +17,10 @@ DSVendas
 </p>
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="[/src/assets/img/home.png](https://github.com/Laerciosantosn/Ds-vendas/blob/main/frontend/src/assets/img/home.png)" alt="demo" height="350" width="415">
-  <img src="[src/assets/img/dashboard.png](https://github.com/Laerciosantosn/Ds-vendas/blob/main/frontend/src/assets/img/dashboard.png)" alt="demo" height="350" width="415">
+
+  <img src="/src/assets/img/home.png" alt="demo" height="350" width="415">
+  <img src="src/assets/img/dashboard.png" alt="demo" height="350" width="415">
+  
 </div>
 
 
